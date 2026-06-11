@@ -1,0 +1,5 @@
+fastmcp
+yfinance
+pandas
+matplotlib
+numpy
