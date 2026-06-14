@@ -4,6 +4,7 @@ A custom Model Context Protocol (MCP) server that arms AI assistants (like Claud
 
 By bridging Large Language Models (LLMs) with an isolated, high-performance Python environment, this server eliminates mathematical hallucinations and gives AI assistants the power to calculate exact risk metrics and render charts on demand.
 
+[link to the working website](https://mathslover0410.netlify.app)
 ---
 
 ## Core Features
